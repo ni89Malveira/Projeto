@@ -1,0 +1,254 @@
+body {
+    background-color: 02203C;
+}
+
+.cabecalho {
+    width: 100%;
+    height: 120px;
+    background-color: 000000;
+}
+.logo {
+    width: 220px;
+    height: 120px;
+}
+.inicio {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 300px;
+    bottom: 85px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.biblioteca {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 470px;
+    top: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.perfil {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 670px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.comunidade {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 820px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.carrinho {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 1020px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 1520px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.idioma {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 1630px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo {
+    height: 150px;
+    width: 100%;
+    background-color: rgba(49, 1, 87, 0.58);
+    position: relative;
+    left: 0px;
+    top: 80px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    border: solid 2px;
+    border-color: black;
+}
+.jogos {
+    width: 900px;
+    height: 400px;
+    position: relative;
+    left: 400px;
+    top: 150px;
+    border-radius: 5px;
+}
+.jogo1 {
+    background-color: rgba(43, 4, 80, 1);
+    height: 100px;
+    border: solid 2px;
+}
+.jogofoto1 {
+    width: 120px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.nomejogo1 {
+    width: 250px;
+    height: 40px;
+    position: relative;
+    left: 200px;
+    bottom: 45px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.comprar1 {
+    width: 180px;
+    height: 100px;
+    position: relative;
+    left: 720px;
+    bottom: 120px;
+}
+.plataformas{
+    position: relative;
+    top: 25px;
+}
+.preco {
+    position: relative;
+    left: 60px;
+    bottom: 20px;
+    font-size: 20px;
+    color: white;
+}
+.jogo2 {
+    background-color: rgba(43, 4, 80, 1);
+    position: relative;
+    top: 30px;
+    height: 100px;
+    border: solid 2px;
+}
+.jogofoto2 {
+    width: 120px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.nomejogo2 {
+    width: 250px;
+    height: 40px;
+    position: relative;
+    left: 200px;
+    bottom: 45px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.comprar2 {
+    width: 180px;
+    height: 100px;
+    position: relative;
+    left: 720px;
+    bottom: 120px;
+}
+.plataformas{
+    position: relative;
+    top: 25px;
+}
+.preco {
+    position: relative;
+    left: 60px;
+    bottom: 20px;
+    font-size: 20px;
+    color: white;
+}
+.espaço {
+    width: 900px;
+    height: 500px;
+    position: relative;
+    left: 400px;
+    top: 10px;
+    background-color: 02203C;
+}
+.finalizar {
+    width: 900px;
+    height: 300px;
+    position: relative;
+    background-color: rgba(28, 12, 64, 1);
+    border-radius: 5px;
+    border: solid 2px;
+}
+.desc {
+    width: 600px;
+    height: 100px;
+    position: relative;
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+}
+.precototal {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 100px;
+    left: 780px;
+    font-size: 25px;
+    color: rgba(4, 219, 90, 0.81);
+}
+.botaocomprar {
+    position: relative;
+    left: 100px;
+    border: solid 2px;
+    border-radius: 7px;
+    border-color: black;
+    background-color: rgba(74, 128, 56, 1);
+    color: white;
+    width: 300px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.botaocomprar:hover{
+    transform: scale(1.05);
+}
+.botaocompraramg {
+    position: relative;
+    left: 500px;
+    bottom: 40px;
+    border: solid 2px;
+    border-radius: 7px;
+    border-color: black;
+    background-color: rgba(74, 128, 56, 1);
+    color: white;
+    width: 300px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.botaocompraramg:hover{
+    transform: scale(1.05);
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: blueviolet;
+}

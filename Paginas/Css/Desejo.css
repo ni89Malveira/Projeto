@@ -1,0 +1,189 @@
+body {
+    background-color: 02203C;
+}
+
+.cabecalho {
+    width: 100%;
+    height: 120px;
+    background-color: 000000;
+}
+.logo {
+    width: 220px;
+    height: 120px;
+}
+.inicio {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 300px;
+    bottom: 85px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.biblioteca {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 470px;
+    top: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.perfil {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 670px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.comunidade {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 820px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.carrinho {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 1020px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 1520px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.idioma {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 1630px;
+    top: 43px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: blueviolet;
+}
+.centro {
+    width: 1000px;
+    height: 700px;
+    position: absolute;
+    left: 400px;
+    top: 140px;
+}
+.foto {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    position: relative;
+    left: 10px;
+    top: 50px;
+}
+.desc {
+    position: relative;
+    left: 200px;
+    bottom: 40px;
+    font-size: 25px;
+    color: white;
+}
+.pesq {
+    width: 250px;
+    height: 30px;
+    background-color: rgba(2, 1, 44, 0.99);
+    color: white;
+    position: relative;
+    left: 10px;
+    top: 50px;
+    border-radius: 10px;
+}
+.filtro {
+    width: 300px;
+    height: 30px;
+    background-color: rgba(48, 48, 48, 1);
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 600px;
+    font-size: 18px;
+    text-align: center;
+}
+.jogo {
+    width: 900px;
+    height: 200px;
+    background-color: rgba(49, 1, 87, 1);
+    position: relative;
+    top: 100px;
+    left: 10px;
+}
+.fotojogo {
+    width: 250px;
+    height: 160px;
+    background-color: white;
+    position: relative;
+    left: 20px;
+    top:20px
+}
+.nomejogo {
+    width: 300px;
+    height: 50px;
+    position: relative;
+    left: 300px;
+    bottom: 140px;
+    font-size: 30px;
+    color: white;
+}
+.descjogo {
+    width: 250px;
+    height: 110px;
+    position: relative;
+    color: gray;
+    left: 300px;
+    bottom: 140px;
+    font-size: 20px;
+}
+.plataformas {
+    width: 50px;
+    height: 50px;
+    position: relative;
+}
+.preco {
+    width: 150px;
+    height: 20px;
+    position: relative;
+    background-color: rgba(61, 63, 60, 1);
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    left: 680px;
+    bottom: 250px;
+    font-size: 20px;
+}
+.carrinhoc {
+    width: 150px;
+    height: 20px;
+    position: absolute;
+    background-color: rgb(83, 155, 47);
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    left: 680px;
+    top: 100px;
+    font-size: 20px;
+}
